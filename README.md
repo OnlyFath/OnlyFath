@@ -49,8 +49,8 @@ I am committed to continuous improvement by following technological advancements
     <a href="https://www.instagram.com/fath2ru" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
     <a href="https://www.facebook.com/achmad.fathir.319" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
     <a href="mailto:fathirjihan5@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
-    <a href="https://www.wa.me/6281327869089" target="_blank"><img alt="Whatsapp" width="25px" 
-src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png"></a> 
-    <a href="https://www.wa.me/6281327869089" target="_blank"><img alt="Whatsapp" width="25px" 
+    <a href="https://www.wa.me/6281327869089" target="_blank"><img alt="X" width="25px" 
+src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/twitter-x.svg"></a> 
+    <a href="https://x.com/fath4u" target="_blank"><img alt="Whatsapp" width="25px" 
 src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png"></a> 
 </p>  
