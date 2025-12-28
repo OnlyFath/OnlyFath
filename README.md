@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif" width="30px">, I'm Fathir
+## Hi there <img src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif" width="30px">, I'm [Fathir!](https://github.com/OnlyFath)
 
 ###
 
